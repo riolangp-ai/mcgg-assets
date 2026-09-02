@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <root realversion="1.3.08.324.1">
+  <liblogic name="1.3.08.324.1"/>
+  <item name="Art/android/ShaderVariants.unity3d" md5="9ab686a90ab2fdaf1b6789304ff51796" xxhash="ec3223"/>
+  <item name="Document/android/ExtralResConfig.unity3d" md5="97ecc27a7af3aa192af741e26a7b345f" xxhash="3e0cf6"/>
+  <item name="Document/android/GameResAlternative.unity3d" md5="0101f6613187c820fcf47b758fe7dfdd" xxhash="4e4e8f"/>
+  <item name="Document/android/GameResConfig.unity3d" md5="510d0f3653e6427af7ea24ef40b6c2f8" xxhash="9ed60f"/>
+  <item name="Document/android/InPackFileVar.unity3d" md5="44115d18727337e59986b2abe09cdc03" xxhash="d4321a"/>
+  <item name="Document/android/InPackFile_and.unity3d" md5="f96e67402ada9fb1549fcccb844d6674" xxhash="1aaa11"/>
+  <item name="Document/android/LoadResMgr_and.unity3d" md5="de8c06d36aad4490d342d2bae87272f0" xxhash="e1fa64"/>
+  <item name="Document/android/LoadResMgr_xxh_and.unity3d" md5="430e23757a3922a5aaa20062b27b820d" xxhash="3cfc93"/>
+  <item name="Document/android/LoadResModuleVersion.unity3d" md5="6d3f55cb0c5af357b4ef6874abf81140" xxhash="7f57e5"/>
+  <item name="Document/android/LoadingDownloadRes.unity3d" md5="67c89a62e595240db661048510c29e95" xxhash="736dd8"/>
+  <item name="Document/android/LoadingDownloadRes_xxh.unity3d" md5="2686b55691d86245cce4633e6add7cc3" xxhash="9a7f1c"/>
+  <item name="Document/android/ModuleIDConfig.unity3d" md5="9490424ae8543706777c0707da752b0a" xxhash="8e9acd"/>
+  <item name="Document/android/ResCheckConf.unity3d" md5="0dd6393e659d665eae6e9ad287ce2a91" xxhash="1e2b69"/>
+  <item name="Document/android/ResCheckConf.xml" md5="20ce18e81965d9531c7794fa2ecc1f80" xxhash="system"/>
+  <item name="Document/android/mode_versions_build.xml" md5="bc89d3ade7a772d1ae97dd3d2ed38e45" xxhash="d68593"/>
+  <item name="UI/android/Atlas_Hero_Head.unity3d" md5="c02859a23dd8591a45ef5397aa67b38d" xxhash="637758"/>
+  <item name="UnityData/Managed/Metadata/global-metadata.dat" md5="c2770f0076ad80a3f72828d8bd570597" xxhash="52cf79"/>
+  <item name="android/lua/logic.unity3d" md5="78e307dae2b62922b00d2320412f7a6e" xxhash="6e00c8"/>
+  <item name="comlibs/arm64-v8a/libAkSoundEngine.bytes" md5="f46be7fb031463645f7deb81cb43c1c0" xxhash="5363fe"/>
+  <item name="comlibs/arm64-v8a/liblogic.bytes" md5="bf4367335ed0c7642af1fe6f1ad16bd6" xxhash="b93e95"/>
+  <item name="comlibs/arm64-v8a/libnativelogin.bytes" md5="f02251fdc6b9bffff24acc7ac39606fa" xxhash="a593e8"/>
+  <item name="comlibs/arm64-v8a/librudp.bytes" md5="51bac6f79e3e13c5823e44b352686fb4" xxhash="ded282"/>
+  <item name="comlibs/armeabi-v7a/libAkSoundEngine.bytes" md5="5e5acc224e64a5582d99373bd0373e1a" xxhash="e9bef2"/>
+  <item name="comlibs/armeabi-v7a/liblogic.bytes" md5="7d334d5ffb1c3ae2763930fe33285b97" xxhash="a9acaa"/>
+  <item name="comlibs/armeabi-v7a/libnativelogin.bytes" md5="79de199cc87a0fc8f91ac5b6c25e351c" xxhash="cfe3e8"/>
+  <item name="comlibs/armeabi-v7a/librudp.bytes" md5="20735ded2e7f78f468c227347b01d8b1" xxhash="c3a9e9"/>
+  <item name="comlibs/x86/libAkSoundEngine.bytes" md5="24b12ccd177160772bdf995c692e0533" xxhash="69adb7"/>
+  <item name="comlibs/x86/liblogic.bytes" md5="87e475333bb6e44a5ed5ba659090d34a" xxhash="330daf"/>
+  <item name="comlibs/x86/libnativelogin.bytes" md5="a92166a603135ade039aced8eb3d571d" xxhash="d0f1ed"/>
+  <item name="comlibs/x86/librudp.bytes" md5="c7c93bfeb4756fd010995ee193013021" xxhash="6bc66e"/>
+  </root>
