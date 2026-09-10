@@ -9,7 +9,7 @@
   <item name="InPackFile_and" md5="8134f8f00af35a8782d52a921b8a0db5" type="4" size="30633" xxhash="d70b66"/>
   <item name="InPackFileVar_Etc" md5="c72d24ece4e7b0a502845bfaaa4f5764" type="4" size="20598" xxhash="819e30"/>
   <item name="InPackFileVar" md5="44115d18727337e59986b2abe09cdc03" type="4" size="1243" xxhash="d4321a"/>
-  <item name="GameResConfig" md5="2dfbb8821651b359b8caffc2fd85f6f1" type="4" size="66719" xxhash="62ee9a"/>
+  <item name="GameResConfig" md5="17bf9f5d5ccdec908378b21f1f54164f" type="4" size="66701" xxhash="c4e1da"/>
   <item name="ExtralResConfig" md5="97ecc27a7af3aa192af741e26a7b345f" type="4" size="4835" xxhash="3e0cf6"/>
   <item name="logic" md5="e4aedc1ca0f67b46fcffd287f8b75ed5" type="12" size="63890297" xxhash="77bef7"/>
   <item name="UI_ZhengTengHuanShou_MC" md5="e9218993995f71ccdcfc74fe78d688ae" type="0" size="24443" xxhash="a281f9"/>
@@ -1772,7 +1772,7 @@
   <item name="MC_Music_Maincity.2021.bnk" md5="f27f4e3dc1c4a272f12b16d67ca57e62" type="7" size="54" xxhash="d3dc87"/>
   <item name="MC_Music_Battle_Default_Round_A.2021.bnk" md5="89794ae0ad8a82c6b1972a58ea30c0b6" type="7" size="1833743" xxhash="f97f6b"/>
   <item name="MC_Music_Battle_Default.2021.bnk" md5="48489a9674c0de05a867cc18ed3abe77" type="7" size="2500520" xxhash="db808a"/>
-  <item name="MC_Music.2021.bnk" md5="998760d1eb3421d7b91cab44228d224f" type="7" size="7383316" xxhash="4cdae1"/>
+  <item name="MC_Music.2021.bnk" md5="7237f1731e8583b2e47697c5dfcfcae4" type="7" size="3893701" xxhash="be3ceb"/>
   <item name="MC_Battle_UI.2021.bnk" md5="a2712cd7251117e9624b9f3c72013d50" type="7" size="2448204" xxhash="e25b06"/>
   <item name="MC_Battle_PickScene.2021.bnk" md5="a4013d4ca6c8c6c04a29c9b860ac99e6" type="7" size="298071" xxhash="0b7bd9"/>
   <item name="Init.2021.bnk" md5="6531fd4aeb131d67848505da901ada4c" type="7" size="17580" xxhash="a017e3"/>
@@ -2562,6 +2562,6 @@
   <item name="4520_shenle_xuanzhong_add" md5="1c39c1ef04f6f0f618424e63cb6c2510" type="1" size="95172" xxhash="8dc3f0"/>
   <item name="4520_shenle_buff01_add" md5="082902d33ebb8dfb8d9f5e4d7090aa70" type="1" size="65478" xxhash="16d0e3"/>
   <item name="mode_versions_build.xml" md5="bc89d3ade7a772d1ae97dd3d2ed38e45" type="4" size="51" xxhash="d68593"/>
-  <version name="334.1"/>
+  <version name="334.2"/>
   </root>
-f874fe2393b61c6d2adaee1bfc0e4276
+66654c55b52917d2b5ef1e43f64f8923
